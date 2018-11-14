@@ -1,0 +1,19 @@
+body { background-image: url('zombiespictures./origins.jpg'); 
+
+} 
+.dotted {
+	font-family: 'Special Elite', cursive; 
+	font-size: 20px; 
+	background-color: tan; 
+	
+} 
+
+p.light {
+    font-weight: lighter; 
+    border-style: solid;
+    border-color: black;  
+} 
+
+.solid {
+	border-color: black; 
+	}
